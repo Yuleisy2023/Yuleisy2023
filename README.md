@@ -1,4 +1,5 @@
-- 👋 Hola soy @Yuleis.Ramirez
+- 👋 Hola soy @Yuleisy.Ramirez
+
 - 👀 Me interesa la programacion.
 - 🌱 Actualmente estoy aprendiendo a programar con Python.
 - 💞️ Busco colaborar en proyectos innovadores.
